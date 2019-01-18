@@ -1,1 +1,1 @@
-{ "Open": "link", "Openlink": "https://google.com" }
+{ "Open": "link", "Openlink": "https://translate.google.com/?hl=en" }
