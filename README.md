@@ -1,1 +1,1 @@
-{ "Open": "link", "Openlink": "https://github.com" }
+{ "Open": "link", "Openlink": "https://github.com/Lewiy" }
