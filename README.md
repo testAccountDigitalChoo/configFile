@@ -1,1 +1,1 @@
-{ "Open": "linkake", "Openlink": "https://translate.google.com/?hl=en" }
+{ "Open": "link", "Openlink": "https://translate.google.com/?hl=en" }
