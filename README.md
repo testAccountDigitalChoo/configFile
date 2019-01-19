@@ -1,1 +1,1 @@
-{ "Open": "application", "Openlink": "https://rozetka.com.ua" }
+{ "Open": "link", "Openlink": "https://rozetka.com.ua" }
