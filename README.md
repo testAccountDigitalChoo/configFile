@@ -1,1 +1,1 @@
-{ "Open": "link", "Openlink": "https://www.facebook.com/" }
+{ "Open": "link", "Openlink": "http://www.whatarecookies.com/cookietest.asp" }
