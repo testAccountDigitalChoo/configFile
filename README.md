@@ -1,1 +1,1 @@
-{ "Open": "link", "Openlink": "http://www.whatarecookies.com/cookietest.asp" }
+{ "Open": "link", "Openlink": "http://www.html-kit.com/tools/cookietester" }
