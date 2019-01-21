@@ -1,1 +1,1 @@
-{ "Open": "link", "Openlink": "http://www.html-kit.com/tools/cookietester" }
+{ "Open": "application", "Openlink": "http://www.html-kit.com/tools/cookietester" }
